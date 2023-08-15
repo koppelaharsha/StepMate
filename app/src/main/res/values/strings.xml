@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StepMate</string>
+    <string name="back_button">back</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="settings">settings</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
